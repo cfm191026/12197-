@@ -1,0 +1,5 @@
+"C:\CFM_Software\Programming_Software\Clion\CLion 2023.2.2\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=C:/CFM_Software/Programming_Software/Clion/CLion 2023.2.2/bin/ninja/win/x64/ninja.exe" -G Ninja -S C:\Users\Administrator\Desktop\PosSysV1.0 -B C:\Users\Administrator\Desktop\PosSysV1.0\cmake-build-debug
+-- Minimal optimization, debug info included
+-- Configuring done (0.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: C:/Users/Administrator/Desktop/PosSysV1.0/cmake-build-debug
